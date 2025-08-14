@@ -26,6 +26,8 @@ const baselineToggle = document.getElementById("baselineToggle");
 const fastModeToggle = document.getElementById("fastModeToggle");
 const reactionSpan = document.getElementById("reactionVal");
 const stressSpan = document.getElementById("stressVal");
+const stressFusedSpan = document.getElementById("stressFusedVal");
+const stressDeltaSpan = document.getElementById("stressDeltaVal");
 const focusSpan = document.getElementById("focusVal");
 const mlStressSpan = document.getElementById("mlStressVal");
 const sylRateSpan = document.getElementById("sylRateVal");
@@ -185,6 +187,12 @@ function ensureSocket() {
   });
   socket.on("disconnect", () => setStatus("Disconnected", "offline"));
   socket.on("analysis_result", (p) => applyResult(p, true));
+  socket.on("transcript_update", (p) => {
+    if (!p || !sessionActive) return;
+    if (p.refined_transcript && latestTranscript) {
+      latestTranscript.textContent = p.refined_transcript + " (refined)";
+    }
+  });
   socket.on("provisional_score", (p) => {
     if (!p || !sessionActive) return;
     if (p.scores && p.scores.stress != null) {
@@ -215,6 +223,23 @@ function ensureSocket() {
       else if (lvl > 0.04) emotionSpan.textContent = "engaged";
       else emotionSpan.textContent = "calm";
     }
+    if (p.speech_prob != null) {
+      const gp = document.getElementById("speechProbGauge");
+      const gv = document.getElementById("speechProbVal");
+      const gs = document.getElementById("speechStableFlag");
+      if (gp && gv) {
+        const pct = Math.round(p.speech_prob * 100);
+        gv.textContent = pct.toString();
+        const inner = gp.querySelector('.gauge-inner');
+        if (inner) {
+          inner.style.background = `conic-gradient(var(--success) 0deg, var(--success) ${pct*3.6}deg, #1e293b ${pct*3.6}deg 360deg)`;
+        }
+        if (gs) {
+          gs.textContent = p.speech_stable ? 'stable' : '…';
+          gs.style.color = p.speech_stable ? '#34d399' : '#64748b';
+        }
+      }
+    }
   });
 }
 
@@ -235,6 +260,17 @@ function applyResult(payload, fromSocket = false) {
     stressSpan.textContent = scores.stress.toFixed
       ? scores.stress.toFixed(1)
       : scores.stress;
+  if (scores.stress_fused != null && stressFusedSpan) {
+    stressFusedSpan.textContent = scores.stress_fused.toFixed
+      ? scores.stress_fused.toFixed(1)
+      : scores.stress_fused;
+    if (scores.stress != null && stressDeltaSpan) {
+      const delta = scores.stress_fused - scores.stress;
+      stressDeltaSpan.textContent = (delta >= 0 ? '+' : '') + delta.toFixed(1);
+      stressDeltaSpan.classList.remove('delta-pos','delta-neg');
+      stressDeltaSpan.classList.add(delta >= 0 ? 'delta-pos' : 'delta-neg');
+    }
+  }
   if (scores.focus != null)
     focusSpan.textContent = scores.focus.toFixed
       ? scores.focus.toFixed(1)
@@ -295,6 +331,7 @@ function applyResult(payload, fromSocket = false) {
     latestTranscript.textContent = transcript || "(empty)";
   // Driver list update
   const driverUl = document.getElementById("driverList");
+  const driverBars = document.getElementById("driverBars");
   if (driverUl && scores.drivers) {
     driverUl.innerHTML = "";
     scores.drivers.forEach(([k, v]) => {
@@ -302,6 +339,31 @@ function applyResult(payload, fromSocket = false) {
       li.textContent = `${k} ${v.toFixed ? v.toFixed(2) : v}`;
       driverUl.appendChild(li);
     });
+    if (driverBars) {
+      driverBars.innerHTML = '';
+      // compute max abs for normalization
+      let maxAbs = 0;
+      scores.drivers.forEach(([_, v]) => { if (Math.abs(v) > maxAbs) maxAbs = Math.abs(v); });
+      maxAbs = maxAbs || 1;
+      scores.drivers.slice(0,8).forEach(([k,v]) => {
+        const bar = document.createElement('div');
+        bar.className = 'driver-bar' + (v < 0 ? '' : ' positive');
+        const fill = document.createElement('div');
+        fill.className = 'driver-bar-fill';
+        const pct = Math.min(100, Math.round((Math.abs(v)/maxAbs)*100));
+        fill.style.width = pct + '%';
+        const label = document.createElement('div');
+        label.className = 'driver-bar-label';
+        label.textContent = k;
+        const val = document.createElement('div');
+        val.className = 'driver-bar-value';
+        val.textContent = (v >=0?'+':'') + (v.toFixed? v.toFixed(2): v);
+        bar.appendChild(fill);
+        bar.appendChild(label);
+        bar.appendChild(val);
+        driverBars.appendChild(bar);
+      });
+    }
   }
   // Baseline bands: once baseline_means available add shaded region mean±std
   if (scores.baseline_means && scores.baseline_stds) {
