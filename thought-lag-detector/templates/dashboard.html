@@ -1,0 +1,324 @@
+{% extends 'base.html' %} {% block content %}
+<div class="main-scroll" style="padding: 20px">
+  <div class="panel" style="margin-bottom: 20px">
+    <h3 style="margin: 0 0 12px">Client Selection</h3>
+    <div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center">
+      <input
+        id="clientIdInput"
+        placeholder="client id (blank uses local)"
+        style="
+          background: #0d1822;
+          border: 1px solid #1e293b;
+          color: #fff;
+          padding: 8px 10px;
+          border-radius: 6px;
+          min-width: 260px;
+        "
+      />
+      <button id="loadSummary">Load History</button>
+      <button id="realTimeToggle" style="background: #6366f1">
+        Enable Real-Time
+      </button>
+      <div id="dashStatus" class="socket-status offline">idle</div>
+    </div>
+  </div>
+
+  <div class="metrics-grid" style="margin-bottom: 12px">
+    <div class="metric-card">
+      <div class="metric-label">Last Reaction</div>
+      <div class="metric-value" id="dashReaction">–</div>
+      <div class="metric-sub">ms</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-label">Last Stress</div>
+      <div class="metric-value red" id="dashStress">–</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-label">Last Focus</div>
+      <div class="metric-value green" id="dashFocus">–</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-label">Avg Stress</div>
+      <div class="metric-value" id="avgStressVal">–</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-label">Avg Focus</div>
+      <div class="metric-value" id="avgFocusVal">–</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-label">Prompts</div>
+      <div class="metric-value" id="promptCountVal">0</div>
+    </div>
+  </div>
+
+  <div class="charts-grid">
+    <div class="panel chart-box">
+      <h3>Reaction Trend</h3>
+      <canvas id="dashReactionChart"></canvas>
+    </div>
+    <div class="panel chart-box">
+      <h3>Stress Trend</h3>
+      <canvas id="dashStressChart"></canvas>
+    </div>
+    <div class="panel chart-box">
+      <h3>Focus Trend</h3>
+      <canvas id="dashFocusChart"></canvas>
+    </div>
+    <div class="panel chart-box">
+      <h3>Stress vs Focus</h3>
+      <canvas id="dashScatter"></canvas>
+    </div>
+  </div>
+
+  <div class="panel" style="margin-top: 20px">
+    <h3>Recent Transcripts</h3>
+    <ul
+      id="dashTranscripts"
+      class="history-list"
+      style="max-height: 300px"
+    ></ul>
+  </div>
+</div>
+<script>
+  const cidInput = document.getElementById("clientIdInput");
+  const loadBtn = document.getElementById("loadSummary");
+  const rtBtn = document.getElementById("realTimeToggle");
+  const dashStatus = document.getElementById("dashStatus");
+  const reactionEl = document.getElementById("dashReaction");
+  const stressEl = document.getElementById("dashStress");
+  const focusEl = document.getElementById("dashFocus");
+  const avgStressEl = document.getElementById("avgStressVal");
+  const avgFocusEl = document.getElementById("avgFocusVal");
+  const promptCountEl = document.getElementById("promptCountVal");
+  const transcriptsList = document.getElementById("dashTranscripts");
+
+  let selectedClientId = localStorage.getItem("tld_client_id");
+  cidInput.value = "";
+  let rtEnabled = false;
+  let dashSocket = null;
+
+  const baseChartOpts = (min, max) => ({
+    responsive: true,
+    animation: false,
+    scales: {
+      y: {
+        min: min,
+        max: max,
+        ticks: { color: "#94a3b8" },
+        grid: { color: "#1f2937" },
+      },
+      x: { ticks: { color: "#64748b" }, grid: { color: "#1f2937" } },
+    },
+    plugins: { legend: { labels: { color: "#e2e8f0" } } },
+  });
+  const rCtx = document.getElementById("dashReactionChart").getContext("2d");
+  const sCtx = document.getElementById("dashStressChart").getContext("2d");
+  const fCtx = document.getElementById("dashFocusChart").getContext("2d");
+  const scatterCtx = document.getElementById("dashScatter").getContext("2d");
+  const reactionChart = new Chart(rCtx, {
+    type: "line",
+    data: {
+      labels: [],
+      datasets: [
+        {
+          label: "Reaction (ms)",
+          data: [],
+          borderColor: "#3b82f6",
+          tension: 0.3,
+        },
+      ],
+    },
+    options: baseChartOpts(undefined, undefined),
+  });
+  const stressChart = new Chart(sCtx, {
+    type: "line",
+    data: {
+      labels: [],
+      datasets: [
+        { label: "Stress", data: [], borderColor: "#f87171", tension: 0.3 },
+      ],
+    },
+    options: baseChartOpts(0, 100),
+  });
+  const focusChart = new Chart(fCtx, {
+    type: "line",
+    data: {
+      labels: [],
+      datasets: [
+        { label: "Focus", data: [], borderColor: "#34d399", tension: 0.3 },
+      ],
+    },
+    options: baseChartOpts(0, 100),
+  });
+  const scatterChart = new Chart(scatterCtx, {
+    type: "scatter",
+    data: {
+      datasets: [
+        {
+          label: "Points",
+          data: [],
+          borderColor: "#6366f1",
+          backgroundColor: "#6366f1",
+        },
+      ],
+    },
+    options: {
+      responsive: true,
+      animation: false,
+      scales: {
+        x: {
+          min: 0,
+          max: 100,
+          title: { display: true, text: "Stress", color: "#94a3b8" },
+          ticks: { color: "#94a3b8" },
+          grid: { color: "#1f2937" },
+        },
+        y: {
+          min: 0,
+          max: 100,
+          title: { display: true, text: "Focus", color: "#94a3b8" },
+          ticks: { color: "#94a3b8" },
+          grid: { color: "#1f2937" },
+        },
+      },
+    },
+  });
+
+  function updateAverages() {
+    const s = stressChart.data.datasets[0].data;
+    const f = focusChart.data.datasets[0].data;
+    if (s.length) {
+      avgStressEl.textContent = (
+        s.reduce((a, b) => a + b, 0) / s.length
+      ).toFixed(1);
+    }
+    if (f.length) {
+      avgFocusEl.textContent = (
+        f.reduce((a, b) => a + b, 0) / f.length
+      ).toFixed(1);
+    }
+    promptCountEl.textContent = s.length;
+  }
+
+  async function loadHistory() {
+    const rawId = cidInput.value.trim();
+    selectedClientId = rawId || localStorage.getItem("tld_client_id");
+    const resp = await fetch(
+      `/api/summary?client_id=${encodeURIComponent(selectedClientId || "")}`
+    );
+    const data = await resp.json();
+    reactionChart.data.labels = [];
+    reactionChart.data.datasets[0].data = [];
+    stressChart.data.labels = [];
+    stressChart.data.datasets[0].data = [];
+    focusChart.data.labels = [];
+    focusChart.data.datasets[0].data = [];
+    scatterChart.data.datasets[0].data = [];
+    transcriptsList.innerHTML = "";
+    data.series.forEach((row) => {
+      reactionChart.data.labels.push(row.idx);
+      reactionChart.data.datasets[0].data.push(row.reaction_ms || 0);
+      stressChart.data.labels.push(row.idx);
+      stressChart.data.datasets[0].data.push(row.stress || 0);
+      focusChart.data.labels.push(row.idx);
+      focusChart.data.datasets[0].data.push(row.focus || 0);
+      scatterChart.data.datasets[0].data.push({ x: row.stress, y: row.focus });
+      const li = document.createElement("li");
+      li.textContent = `${row.idx}  Stress ${
+        row.stress?.toFixed?.(0) ?? row.stress
+      }  Focus ${row.focus?.toFixed?.(0) ?? row.focus}`;
+      transcriptsList.prepend(li);
+    });
+    reactionChart.update();
+    stressChart.update();
+    focusChart.update();
+    scatterChart.update();
+    updateAverages();
+    dashStatus.textContent = "history loaded";
+    dashStatus.classList.remove("offline");
+    dashStatus.classList.add("online");
+  }
+
+  loadBtn.onclick = loadHistory;
+
+  function ensureDashSocket() {
+    if (dashSocket || typeof io === "undefined") return;
+    dashSocket = io({
+      autoConnect: false,
+      reconnectionAttempts: 5,
+      reconnectionDelay: 1500,
+    });
+    dashSocket.on("connect", () => {
+      dashStatus.textContent = "live";
+      dashStatus.classList.add("online");
+      dashSocket.emit("register", { client_id: selectedClientId });
+    });
+    dashSocket.on("disconnect", () => {
+      dashStatus.textContent = "disconnected";
+      dashStatus.classList.remove("online");
+      dashStatus.classList.add("offline");
+    });
+    dashSocket.on("analysis_result", (payload) => {
+      if (!rtEnabled) return;
+      if (!payload) return;
+      const { scores, features, transcript } = payload;
+      if (!scores) return; // push only if matches
+      // we don't know client id in payload; relying on room membership
+      reactionChart.data.labels.push(reactionChart.data.labels.length);
+      reactionChart.data.datasets[0].data.push(
+        features.reaction_ms_server || features.reaction_ms_client || 0
+      );
+      stressChart.data.labels.push(stressChart.data.labels.length);
+      stressChart.data.datasets[0].data.push(scores.stress);
+      focusChart.data.labels.push(focusChart.data.labels.length);
+      focusChart.data.datasets[0].data.push(scores.focus);
+      scatterChart.data.datasets[0].data.push({
+        x: scores.stress,
+        y: scores.focus,
+      });
+      const li = document.createElement("li");
+      li.textContent = `${new Date().toLocaleTimeString()}  Stress ${scores.stress.toFixed(
+        0
+      )}  Focus ${scores.focus.toFixed(0)}  ${transcript || ""}`;
+      transcriptsList.prepend(li);
+      if (transcriptsList.children.length > 150)
+        transcriptsList.removeChild(transcriptsList.lastChild);
+      reactionChart.update("none");
+      stressChart.update("none");
+      focusChart.update("none");
+      scatterChart.update("none");
+      reactionEl.textContent = Math.round(
+        features.reaction_ms_server || features.reaction_ms_client || 0
+      );
+      stressEl.textContent = scores.stress.toFixed(1);
+      focusEl.textContent = scores.focus.toFixed(1);
+      updateAverages();
+    });
+  }
+
+  rtBtn.onclick = () => {
+    rtEnabled = !rtEnabled;
+    rtBtn.textContent = rtEnabled ? "Disable Real-Time" : "Enable Real-Time";
+    if (rtEnabled) {
+      ensureDashSocket();
+      if (dashSocket && !dashSocket.connected) {
+        dashSocket.connect();
+        dashStatus.textContent = "connecting";
+        dashStatus.classList.remove("offline");
+      }
+    } else {
+      if (dashSocket) {
+        try {
+          dashSocket.disconnect();
+        } catch (e) {}
+        dashStatus.textContent = "idle";
+        dashStatus.classList.remove("online");
+        dashStatus.classList.add("offline");
+      }
+    }
+  };
+
+  // initial load auto
+  loadHistory();
+</script>
+{% endblock %}

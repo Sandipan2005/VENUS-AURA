@@ -1,0 +1,179 @@
+{% extends "base.html" %} {% block content %}
+<div class="layout">
+  <!-- Sidebar / Controls -->
+  <div class="sidebar">
+    <div>
+      <div class="section-title">Audio Control</div>
+      <div class="text-muted" style="font-size: 11px">Session ID</div>
+      <div
+        id="sessionIdDisplay"
+        class="text-muted"
+        style="font-size: 11px; word-break: break-all"
+      >
+        –
+      </div>
+    </div>
+    <div class="flex-col gap-12">
+      <label style="font-size: 13px">
+        <input type="checkbox" id="baselineToggle" /> Establishing baseline
+      </label>
+      <label style="font-size: 13px">
+        <input type="checkbox" id="fastModeToggle" /> Fast mode (skip pitch)
+      </label>
+      <button id="startBtn">Start Analysis Session</button>
+      <button id="stopBtn" disabled style="background: #dc2626">Stop</button>
+    </div>
+    <div>
+      <div class="section-title">Current Prompt</div>
+      <div id="promptBox" class="prompt-box">Press Start</div>
+    </div>
+    <div>
+      <div class="section-title">Audio Visualization</div>
+      <canvas
+        id="miniWave"
+        height="60"
+        style="
+          background: #000;
+          border: 1px solid #1f2937;
+          border-radius: 6px;
+          width: 100%;
+        "
+      ></canvas>
+      <div class="text-muted" style="margin-top: 4px">
+        Volume: <span id="volPct">0%</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Panels -->
+  <div class="main-scroll">
+    <div class="metrics-grid">
+      <div class="metric-card">
+        <div class="metric-label">Stress Level</div>
+        <div class="metric-value red" id="stressVal">–</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Focus Score</div>
+        <div class="metric-value green" id="focusVal">–</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">ML Stress Prob</div>
+        <div class="metric-value" id="mlStressVal">–</div>
+        <div class="metric-sub">%</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Reaction Delay</div>
+        <div class="metric-value" id="reactionVal">–</div>
+        <div class="metric-sub">ms</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Avg Stress (20)</div>
+        <div class="metric-value" id="avgStressVal">–</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Avg Focus (20)</div>
+        <div class="metric-value" id="avgFocusVal">–</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Avg Reaction (20)</div>
+        <div class="metric-value" id="avgReactionVal">–</div>
+        <div class="metric-sub">ms</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Speaking Rate</div>
+        <div class="metric-value" id="sylRateVal">–</div>
+        <div class="metric-sub">syl/s</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Pause Ratio</div>
+        <div class="metric-value" id="pauseRatioVal">–</div>
+        <div class="metric-sub">%</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Avg Pitch</div>
+        <div class="metric-value" id="avgPitchVal">–</div>
+        <div class="metric-sub">Hz</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Processing Time</div>
+        <div class="metric-value" id="procMsVal">–</div>
+        <div class="metric-sub">ms</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">RTT Latency</div>
+        <div class="metric-value" id="latencyVal">–</div>
+        <div class="metric-sub">ms</div>
+      </div>
+    </div>
+
+    <div class="charts-grid">
+      <div class="panel chart-box">
+        <h3>Reaction Time Trend</h3>
+        <canvas id="reactionChart"></canvas>
+      </div>
+      <div class="panel chart-box">
+        <h3>Latest Transcript</h3>
+        <div
+          id="latestTranscript"
+          style="
+            font-size: 14px;
+            line-height: 1.5;
+            white-space: pre-wrap;
+            color: #f8fafc;
+          "
+        >
+          (waiting...)
+        </div>
+        <div class="text-muted" style="margin-top: 8px">
+          Detected Emotion: <span id="emotionVal">n/a</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="charts-grid">
+      <div class="panel chart-box">
+        <h3>Stress Trend</h3>
+        <canvas id="stressTrendChart"></canvas>
+      </div>
+      <div class="panel chart-box">
+        <h3>Focus Trend</h3>
+        <canvas id="focusTrendChart"></canvas>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h3>Session History</h3>
+      <ul id="sessionHistory" class="history-list"></ul>
+    </div>
+    <div class="panel">
+      <h3>Analytics</h3>
+      <div
+        id="analyticsSummary"
+        style="font-size: 13px; line-height: 1.5; color: #cbd5e1"
+      >
+        <div>Heuristic vs ML divergence: <span id="divergenceVal">–</span></div>
+        <div>ML Samples (pos/neg): <span id="mlSampleCounts">0 / 0</span></div>
+        <div>Model Trained: <span id="mlTrainedFlag">no</span></div>
+      </div>
+    </div>
+    <div class="panel">
+      <h3>Top Drivers</h3>
+      <ul id="driverList" class="history-list" style="max-height: 140px"></ul>
+      <div class="text-muted" style="font-size: 11px; margin-top: 6px">
+        Computed from z-score weighted contributions (live).
+      </div>
+    </div>
+  </div>
+</div>
+
+<script id="prompts-data" type="application/json">
+  {{ prompts|tojson|safe }}
+</script>
+<script type="text/javascript">
+  const PROMPTS = JSON.parse(
+    document.getElementById("prompts-data").textContent
+  );
+</script>
+<script src="{{ url_for('static', filename='js/wav-recorder.js') }}"></script>
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+{% endblock %}

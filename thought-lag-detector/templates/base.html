@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Thought Lag Detector</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/styles.css') }}"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.2/socket.io.min.js"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="header-left">
+        <div class="logo-mark" aria-hidden="true">🧠</div>
+        <h1>Thought Lag Detector</h1>
+        <nav>
+          <a href="{{ url_for('index') }}">Session</a>
+          <a href="{{ url_for('dashboard') }}">Dashboard</a>
+        </nav>
+      </div>
+      <div class="header-right">
+        <button id="themeToggle" class="theme-toggle" title="Toggle theme">
+          🌗
+        </button>
+        <div id="socketStatus" class="socket-status offline">Disconnected</div>
+      </div>
+    </header>
+    <main>{% block content %}{% endblock %}</main>
+    <!-- Socket status overlay -->
+    <div id="socketOverlay" class="socket-overlay" title="Socket status">
+      <div id="socketOverlayStatus" class="socket-status offline">
+        Disconnected
+      </div>
+      <button id="socketLogToggle" class="socket-log-toggle">Logs</button>
+      <div id="socketLog" class="socket-log" hidden></div>
+    </div>
+    <script>
+      (function () {
+        const saved = localStorage.getItem("tld_theme");
+        if (saved) {
+          document.documentElement.setAttribute("data-theme", saved);
+        }
+        const btn = document.getElementById("themeToggle");
+        if (btn) {
+          btn.onclick = () => {
+            const cur =
+              document.documentElement.getAttribute("data-theme") || "dark";
+            const next = cur === "dark" ? "light" : "dark";
+            document.documentElement.setAttribute("data-theme", next);
+            localStorage.setItem("tld_theme", next);
+            btn.classList.toggle("active", next === "light");
+          };
+          btn.classList.toggle("active", (saved || "dark") === "light");
+        }
+      })();
+    </script>
+  </body>
+</html>
