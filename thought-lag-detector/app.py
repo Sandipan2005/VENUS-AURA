@@ -19,7 +19,6 @@ from models.features import (
 )
 from models.scoring import ScoreModel
 from models.ml_model import MLModel
-from models.stress_model import StressModel, compute_frame_features
 from models.storage import db, Session, PromptResult, ensure_dirs
 from sqlalchemy import func
 from flask_socketio import SocketIO, join_room # type: ignore
@@ -41,7 +40,6 @@ with app.app_context():
 asr = ASR(app.config["ASR_MODEL_NAME"])
 scorer = ScoreModel()
 ml_model = MLModel()
-stress_model = StressModel()
 
 # Live streaming buffers (per client) for lightweight real-time previews
 live_buffers: dict[str, bytearray] = {}
@@ -400,30 +398,8 @@ def analyze():
         "transcript": transcript,
     }
 
-    # Neural stress model inference (optional torch)
-    model_stress_prob = None
-    try:
-        if stress_model.enabled and speech_dur >= 0.4:
-            import soundfile as sf
-            import numpy as _np
-            y, sr_loaded = sf.read(save_path, dtype="float32")
-            if y.ndim > 1:
-                y = y.mean(axis=1)
-            feats_frame = compute_frame_features(y, sr=sr_loaded)
-            sm_out = stress_model.infer(feats_frame)
-            model_stress_prob = sm_out.get("model_stress_prob")
-            if sm_out.get("embedding"):
-                features["embedding_mean"] = sm_out["embedding"]  # stored for potential adaptation
-    except Exception:
-        pass
-
     # Heuristic baseline-based scores
     scores = scorer.score(client_id, features)
-    if model_stress_prob is not None:
-        # Simple fusion: average for now
-        fused = 0.5 * scores["stress"] + 50.0 * model_stress_prob
-        scores["stress_fused"] = float(fused)
-        scores["model_stress_prob"] = float(model_stress_prob)
     # Online ML augmentation (pseudo-labeled by heuristic stress)
     try:
         scores.update(ml_model.update_and_predict(features, scores["stress"]))

@@ -656,3 +656,1210 @@
 2025-08-14T21:33:43.536934 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
 2025-08-14T21:33:43.544306 - partial_err:[Errno 22] Invalid argument
 2025-08-14T21:33:43.546163 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:41.030317 - register:8399c465-ae13-49da-88b9-048c0f817734:client
+2025-08-14T22:33:44.596422 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:44.779621 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:44.910081 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:44.911079 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:44.928563 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:44.930564 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:44.934077 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:44.945482 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:44.954129 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:44.954129 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:44.956064 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:44.956064 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:44.956064 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:45.088408 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.234311 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:45.236907 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:45.244388 - prov_err:cannot reshape array of size 66560 into shape (960)
+2025-08-14T22:33:45.245424 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.247008 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:45.253922 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.254459 - prov_err:cannot reshape array of size 66560 into shape (960)
+2025-08-14T22:33:45.254459 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.256006 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.257565 - prov_err:cannot reshape array of size 66560 into shape (960)
+2025-08-14T22:33:45.259136 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.266331 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.266331 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.407143 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:45.411143 - prov_err:cannot reshape array of size 71680 into shape (960)
+2025-08-14T22:33:45.412143 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:45.413680 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.413680 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.417288 - prov_err:cannot reshape array of size 72704 into shape (960)
+2025-08-14T22:33:45.419288 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.423814 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:45.430418 - prov_err:cannot reshape array of size 72704 into shape (960)
+2025-08-14T22:33:45.578248 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:45.583330 - prov_err:cannot reshape array of size 79872 into shape (960)
+2025-08-14T22:33:45.592688 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:45.709136 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.716270 - prov_err:cannot reshape array of size 79872 into shape (960)
+2025-08-14T22:33:45.718270 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.723796 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.725371 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.732400 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.741269 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:45.743899 - prov_err:cannot reshape array of size 82944 into shape (960)
+2025-08-14T22:33:45.869222 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:45.883888 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.896568 - prov_err:cannot reshape array of size 83968 into shape (960)
+2025-08-14T22:33:45.899568 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.900568 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.901568 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:45.902568 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.046315 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.050315 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:46.056482 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.056482 - prov_err:cannot reshape array of size 89088 into shape (960)
+2025-08-14T22:33:46.056482 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.180593 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:46.199227 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.203753 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.205395 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.206434 - prov_err:cannot reshape array of size 91136 into shape (960)
+2025-08-14T22:33:46.206434 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.207466 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.362565 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.495985 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:46.519628 - prov_err:cannot reshape array of size 98304 into shape (960)
+2025-08-14T22:33:46.520628 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.522638 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.522638 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.529699 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.676169 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.685316 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.705587 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:46.706614 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:46.846617 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.849617 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.850617 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.853618 - prov_err:cannot reshape array of size 105472 into shape (960)
+2025-08-14T22:33:46.854130 - prov_err:cannot reshape array of size 105472 into shape (960)
+2025-08-14T22:33:46.906678 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:46.909707 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.915254 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:46.916282 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.916282 - prov_err:cannot reshape array of size 110592 into shape (960)
+2025-08-14T22:33:46.919282 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.922282 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:46.923810 - prov_err:cannot reshape array of size 110592 into shape (960)
+2025-08-14T22:33:46.927436 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.432507 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.437646 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.442646 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.456666 - prov_err:cannot reshape array of size 119808 into shape (960)
+2025-08-14T22:33:47.456666 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.458256 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.459838 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.464154 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.470574 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.472149 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.473698 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.478455 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.486444 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.488442 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.490442 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.490442 - prov_err:cannot reshape array of size 119808 into shape (960)
+2025-08-14T22:33:47.490442 - prov_err:cannot reshape array of size 119808 into shape (960)
+2025-08-14T22:33:47.490442 - prov_err:cannot reshape array of size 119808 into shape (960)
+2025-08-14T22:33:47.636255 - prov_err:cannot reshape array of size 119808 into shape (960)
+2025-08-14T22:33:47.637242 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.640235 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.641236 - prov_err:cannot reshape array of size 119808 into shape (960)
+2025-08-14T22:33:47.665617 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.668646 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.673646 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.680716 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.686289 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.692289 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.693818 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.703884 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.706028 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.706028 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.715039 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.715039 - prov_err:cannot reshape array of size 130048 into shape (960)
+2025-08-14T22:33:47.719719 - prov_err:cannot reshape array of size 130048 into shape (960)
+2025-08-14T22:33:47.719719 - prov_err:cannot reshape array of size 130048 into shape (960)
+2025-08-14T22:33:47.721329 - prov_err:cannot reshape array of size 130048 into shape (960)
+2025-08-14T22:33:47.721329 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.934295 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.951834 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.955528 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.962871 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:47.964413 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.964413 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:47.978105 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.979687 - prov_err:cannot reshape array of size 137216 into shape (960)
+2025-08-14T22:33:47.982307 - prov_err:cannot reshape array of size 137216 into shape (960)
+2025-08-14T22:33:47.987494 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:47.989493 - prov_err:cannot reshape array of size 137216 into shape (960)
+2025-08-14T22:33:47.996598 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.171282 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.180045 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.181620 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.190305 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:48.339852 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.346419 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.360320 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.366495 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:48.369495 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.378628 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.513680 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.515255 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.533802 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.533802 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.543937 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.558602 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.564132 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.565643 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.574167 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.593730 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.598315 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.605421 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.615313 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.621567 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.635538 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.637082 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.638646 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.638646 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.786292 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.806589 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:48.818679 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.855586 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.855586 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.866251 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.867831 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.872647 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.877310 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:48.898517 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.930585 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.949360 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.961296 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:48.997325 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.138731 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:49.147297 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:49.162432 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.164990 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:49.198507 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:49.348522 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.352522 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:49.370545 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:49.399173 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:49.402393 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.403941 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.408700 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:49.424254 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.429310 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:49.571641 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:49.642619 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:49.644131 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.796525 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:49.799526 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.802526 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.805669 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.811697 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.811697 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.819440 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.972176 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:49.987305 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:49.989305 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:49.989305 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.008647 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.009648 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.171717 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.186394 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.194444 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.195473 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.196504 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.215372 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.228600 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.417205 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.418786 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.431527 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.447728 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.449728 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.469436 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.472434 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.473962 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.480602 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.490677 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.654313 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.658356 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.661348 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.663876 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.680615 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.681615 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.684145 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.687678 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.695715 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.702730 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:50.702730 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.713292 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.718453 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.728590 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.744173 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.768422 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.779556 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.785664 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.805303 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.807345 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.807345 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:50.828737 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.837724 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.840840 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:50.851858 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.018625 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.190949 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.200214 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.212205 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.214165 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.214165 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.219836 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.234307 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.237370 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.244011 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.246688 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.249659 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.256742 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.260740 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.261740 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.275389 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.279419 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.281419 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.295670 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.310799 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.327520 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.341437 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:51.379821 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.402722 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.422474 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.443427 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.459048 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:51.618728 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.640363 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:51.664194 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.812487 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.816627 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.823627 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.825667 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.825667 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:51.832696 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.845299 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.850298 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.864541 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.865582 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.869153 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:51.996860 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:51.999855 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:52.006424 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:52.018561 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.025712 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:52.028741 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.043848 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:52.046416 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:52.048416 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:52.073687 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:52.080391 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:52.108636 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:52.146756 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:52.479424 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:52.621271 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:52.660651 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.662649 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.666718 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:52.669719 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.671718 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.674230 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.680786 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:52.682786 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.683787 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.692356 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.692356 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.696485 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.697485 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.698485 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.704013 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.705584 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.714124 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.715150 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:52.720179 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.727736 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.732736 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:52.794202 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:52.810447 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:52.900499 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:52.902499 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:53.084304 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.089879 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.093880 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.106620 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.305355 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.319400 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.339298 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.352429 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.357574 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.360574 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.362574 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.517662 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.529752 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:53.532752 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.545359 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.551388 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.560525 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.560525 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.565626 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.726810 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.737364 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.746546 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.747546 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.748546 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:53.755640 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.762669 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.764181 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.770007 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:53.775795 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.786870 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.827580 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:53.870408 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.064303 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:54.071610 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:54.074587 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:54.079626 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:54.094208 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.094208 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:54.095736 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.225993 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.385361 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:54.396531 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.431439 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.445613 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.452857 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.461107 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.461107 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.465691 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:54.467239 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.475422 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.481088 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.482088 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:54.484088 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.492617 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:54.496711 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.498221 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.502243 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.522429 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.525531 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.540696 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.578094 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:54.624424 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.635677 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:54.663840 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.849423 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:54.877943 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:54.880946 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.001166 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:55.003944 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.005504 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.055709 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.062738 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.065777 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.071805 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.074317 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.086498 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.218768 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.235836 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.235836 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.237407 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.240543 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.257457 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.398501 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.401502 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.414284 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.438852 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.439853 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.444364 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.446667 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.576631 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:55.740819 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.742818 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.747386 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.750386 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.757504 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.770688 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.777756 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.778756 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.779756 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.784590 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:55.794005 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.797660 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:55.916731 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.102447 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.121128 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.130595 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.135826 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:56.150039 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.157768 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.174732 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.296413 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.298774 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.309923 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.313880 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.327291 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.337590 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.342590 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.352730 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.359798 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.364311 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.381434 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.390595 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.391595 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.869237 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.873766 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.877795 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.877795 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.893862 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.907519 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.908519 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.926790 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.929790 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:56.931653 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.933301 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.936984 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.942560 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.944939 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:56.988711 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.988711 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:56.989711 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:56.991711 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.117738 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.139692 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.197209 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:57.208777 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.214316 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.219886 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.239661 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.241661 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.266418 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:57.267418 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.272953 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.296973 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.306425 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.331115 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:57.333115 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:57.358797 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:57.394242 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:57.394242 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:57.428707 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.444345 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.580632 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:57.581631 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.771482 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.776646 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:57.776646 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:57.781646 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.798858 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.804382 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:57.811867 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:57.811867 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.814559 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.814559 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.819920 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.832874 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.837465 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.841773 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:57.850039 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.861803 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.874081 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.876745 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.898931 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.912557 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:57.920071 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.948715 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:57.951715 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:58.116537 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:58.117537 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.119537 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:58.134192 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:58.153863 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.153863 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.155404 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.163961 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.165557 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:58.168586 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.180777 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:58.187226 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:58.226729 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:58.373016 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:58.387113 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:58.388112 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.402735 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.414151 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:58.416683 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:58.428779 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:58.430722 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.444456 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.449097 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.450641 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.454200 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.492077 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:58.494076 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:58.581934 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.666782 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.676119 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:58.682177 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.698225 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:58.709115 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.726992 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:58.750829 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:58.750829 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:58.794143 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.102042 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:59.123958 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:59.137161 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.137161 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:59.151862 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:59.158889 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:59.164988 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:59.170470 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:59.338258 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:59.338258 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:33:59.359221 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:59.359221 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:59.379043 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:33:59.385293 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.399018 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.464769 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.519704 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.577328 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.654264 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.694976 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.705882 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.797840 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.835754 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.954088 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.954088 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:33:59.968896 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:00.495454 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:00.535800 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:00.649020 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:01.363946 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:01.645180 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:01.649289 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:01.991615 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:02.690365 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:03.024296 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:03.414637 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:04.110392 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:04.142083 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:04.150004 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:04.174984 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:04.184527 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:04.224955 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:04.364336 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:04.705795 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:04.810071 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:05.339303 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:05.419340 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:05.660948 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:05.667282 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:06.484273 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:32.258808 - register:8399c465-ae13-49da-88b9-048c0f817734:client
+2025-08-14T22:34:35.793091 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:35.810207 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:37.399391 - prov_err:cannot reshape array of size 47104 into shape (960)
+2025-08-14T22:34:37.438028 - prov_err:cannot reshape array of size 47104 into shape (960)
+2025-08-14T22:34:41.743289 - emit pr=84 cid=8399c465-ae13-49da-88b9-048c0f817734 idx=0 base=y
+2025-08-14T22:34:41.762348 - ack from 8399c465-ae13-49da-88b9-048c0f817734 pr=84
+2025-08-14T22:34:45.899449 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:45.901468 - prov_err:cannot reshape array of size 49152 into shape (960)
+2025-08-14T22:34:45.921620 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:45.923620 - prov_err:cannot reshape array of size 50176 into shape (960)
+2025-08-14T22:34:45.941361 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:45.943359 - prov_err:cannot reshape array of size 51200 into shape (960)
+2025-08-14T22:34:45.968567 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:45.972580 - prov_err:cannot reshape array of size 52224 into shape (960)
+2025-08-14T22:34:45.990552 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:45.992541 - prov_err:cannot reshape array of size 53248 into shape (960)
+2025-08-14T22:34:46.010664 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:46.012662 - prov_err:cannot reshape array of size 54272 into shape (960)
+2025-08-14T22:34:46.073628 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:46.280482 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:46.297929 - prov_err:cannot reshape array of size 57344 into shape (960)
+2025-08-14T22:34:46.299442 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:34:46.300453 - prov_err:cannot reshape array of size 57344 into shape (960)
+2025-08-14T22:34:46.301463 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:34:46.302459 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:34:50.468053 - prov_err:cannot reshape array of size 58368 into shape (960)
+2025-08-14T22:34:50.669594 - prov_err:cannot reshape array of size 58368 into shape (960)
+2025-08-14T22:34:50.669594 - prov_err:cannot reshape array of size 58368 into shape (960)
+2025-08-14T22:34:51.227847 - emit pr=85 cid=8399c465-ae13-49da-88b9-048c0f817734 idx=1 base=y
+2025-08-14T22:34:51.243181 - ack from 8399c465-ae13-49da-88b9-048c0f817734 pr=85
+2025-08-14T22:34:54.504636 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:54.507180 - prov_err:cannot reshape array of size 62464 into shape (960)
+2025-08-14T22:34:54.547204 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:54.547204 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:54.565961 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:54.565961 - prov_err:cannot reshape array of size 64512 into shape (960)
+2025-08-14T22:34:54.566959 - prov_err:cannot reshape array of size 64512 into shape (960)
+2025-08-14T22:34:54.770628 - prov_err:cannot reshape array of size 64512 into shape (960)
+2025-08-14T22:34:54.771628 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:34:54.789864 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:34:54.796413 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:54.796413 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:34:54.801935 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:34:54.806233 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:34:54.815995 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:54.819526 - prov_err:cannot reshape array of size 71680 into shape (960)
+2025-08-14T22:34:54.819526 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:34:55.078326 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:34:55.078326 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:34:55.082854 - prov_err:cannot reshape array of size 73728 into shape (960)
+2025-08-14T22:34:55.087020 - prov_err:cannot reshape array of size 73728 into shape (960)
+2025-08-14T22:35:02.146257 - prov_err:cannot reshape array of size 73728 into shape (960)
+2025-08-14T22:35:02.198431 - prov_err:cannot reshape array of size 73728 into shape (960)
+2025-08-14T22:35:02.431148 - prov_err:cannot reshape array of size 73728 into shape (960)
+2025-08-14T22:35:02.432712 - prov_err:cannot reshape array of size 73728 into shape (960)
+2025-08-14T22:35:02.432712 - prov_err:cannot reshape array of size 73728 into shape (960)
+2025-08-14T22:35:02.432712 - prov_err:cannot reshape array of size 73728 into shape (960)
+2025-08-14T22:35:02.434259 - prov_err:cannot reshape array of size 73728 into shape (960)
+2025-08-14T22:35:03.087386 - emit pr=86 cid=8399c465-ae13-49da-88b9-048c0f817734 idx=2 base=y
+2025-08-14T22:35:03.101208 - ack from 8399c465-ae13-49da-88b9-048c0f817734 pr=86
+2025-08-14T22:35:06.454922 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.457456 - prov_err:cannot reshape array of size 75776 into shape (960)
+2025-08-14T22:35:06.476335 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.496745 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.514852 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.535120 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.555464 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.574718 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.616090 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:06.647835 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.863026 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.865554 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:06.867618 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:06.873185 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.874158 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.874158 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.881645 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.883215 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:06.895393 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.896947 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.896947 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:06.903290 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:06.941059 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.168213 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.171329 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.177052 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.177052 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.178664 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.182379 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.185465 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.185465 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.187015 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:07.196323 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.212297 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.215293 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.222732 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:07.484041 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.486210 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.493565 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:07.496696 - prov_err:cannot reshape array of size 117760 into shape (960)
+2025-08-14T22:35:07.502976 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:07.505103 - prov_err:cannot reshape array of size 118784 into shape (960)
+2025-08-14T22:35:07.540895 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.542904 - prov_err:cannot reshape array of size 119808 into shape (960)
+2025-08-14T22:35:07.561996 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.562996 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.562996 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.562996 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.562996 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.562996 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.563996 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.566513 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.567513 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.571045 - prov_err:cannot reshape array of size 120832 into shape (960)
+2025-08-14T22:35:07.571045 - prov_err:cannot reshape array of size 120832 into shape (960)
+2025-08-14T22:35:07.571045 - prov_err:cannot reshape array of size 120832 into shape (960)
+2025-08-14T22:35:07.572036 - prov_err:cannot reshape array of size 120832 into shape (960)
+2025-08-14T22:35:07.578120 - prov_err:cannot reshape array of size 120832 into shape (960)
+2025-08-14T22:35:07.579641 - prov_err:cannot reshape array of size 120832 into shape (960)
+2025-08-14T22:35:07.580656 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.580656 - prov_err:cannot reshape array of size 120832 into shape (960)
+2025-08-14T22:35:07.580656 - prov_err:cannot reshape array of size 120832 into shape (960)
+2025-08-14T22:35:07.582673 - prov_err:cannot reshape array of size 120832 into shape (960)
+2025-08-14T22:35:07.840773 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.853971 - prov_err:cannot reshape array of size 124928 into shape (960)
+2025-08-14T22:35:07.855476 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.856478 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.858490 - prov_err:cannot reshape array of size 124928 into shape (960)
+2025-08-14T22:35:07.858490 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.860284 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.863560 - prov_err:cannot reshape array of size 124928 into shape (960)
+2025-08-14T22:35:07.863560 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.865127 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.865127 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.865127 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.885404 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:07.888543 - prov_err:cannot reshape array of size 128000 into shape (960)
+2025-08-14T22:35:07.913008 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.914001 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:07.916550 - prov_err:cannot reshape array of size 129024 into shape (960)
+2025-08-14T22:35:07.941297 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.942301 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.942301 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.944825 - prov_err:cannot reshape array of size 130048 into shape (960)
+2025-08-14T22:35:07.944825 - prov_err:cannot reshape array of size 130048 into shape (960)
+2025-08-14T22:35:07.945846 - prov_err:cannot reshape array of size 130048 into shape (960)
+2025-08-14T22:35:07.961899 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.965986 - prov_err:cannot reshape array of size 131072 into shape (960)
+2025-08-14T22:35:07.973009 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:07.977541 - prov_err:cannot reshape array of size 132096 into shape (960)
+2025-08-14T22:35:07.980542 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:07.983538 - prov_err:cannot reshape array of size 132096 into shape (960)
+2025-08-14T22:35:08.002684 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:08.006214 - prov_err:cannot reshape array of size 133120 into shape (960)
+2025-08-14T22:35:08.045132 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:08.048678 - prov_err:cannot reshape array of size 135168 into shape (960)
+2025-08-14T22:35:08.090609 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:08.093608 - prov_err:cannot reshape array of size 137216 into shape (960)
+2025-08-14T22:35:08.111395 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:08.125090 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.150719 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.396404 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.398024 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.437156 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.442709 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.442709 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.443721 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.443721 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.444705 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.445215 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.447235 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.447235 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.447235 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.448231 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.660134 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.669574 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.674493 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.677164 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.678717 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.687302 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.688993 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.692016 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.697559 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.707015 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:08.735248 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:08.736268 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:08.763894 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:08.775533 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:09.007035 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.009025 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:09.025093 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.027328 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.027328 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:09.030865 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:09.033865 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.045587 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:09.102054 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:09.105173 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:09.110747 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:09.149671 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:09.168848 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:09.198170 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:09.425208 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:09.426225 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.433461 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.435024 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.445595 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:09.451132 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:09.452134 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.471984 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.475502 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:09.479710 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.500706 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.504865 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.505386 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.515207 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.519737 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:09.535282 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:09.575147 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.038159 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.446396 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.458753 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.460780 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.462329 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.462329 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.462329 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.465404 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.473293 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.476515 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.476515 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.496036 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.496036 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.497035 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.500034 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.504047 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.509753 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.519835 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.522821 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.523827 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.527139 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.532140 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.534140 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.535140 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.535140 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.536546 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.540073 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.543086 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.544085 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.545597 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.547598 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.550825 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.550825 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.551837 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.552830 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.560130 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.561130 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.562130 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.563134 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.566180 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.569718 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.571712 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.573708 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.573708 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.576245 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.587815 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.617037 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:10.830842 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.832837 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.835350 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.837815 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.837815 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.838847 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.838847 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:10.838847 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:10.841924 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.226004 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.230038 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:11.235540 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.240088 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.426269 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.431806 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.437978 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.443979 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.444978 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.466378 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.468384 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.470914 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.474921 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.477076 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.657489 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.658487 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.663400 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.665237 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.666295 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.671196 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.672196 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.673202 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.678311 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.678311 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.689687 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.692686 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.696204 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.696716 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.699724 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.699724 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.705243 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.707255 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.708254 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.709763 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.716292 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.718303 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.721823 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.725353 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.733292 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.754749 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.980198 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:11.996073 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:11.998076 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.001094 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:12.002084 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.011736 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.014822 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.014822 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.020984 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.031015 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.036530 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:12.047583 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.065685 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.270751 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:12.283785 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.285297 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.287314 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:12.888382 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:13.092348 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:13.097610 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:13.105657 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:13.163634 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:26.398399 - emit pr=87 cid=8399c465-ae13-49da-88b9-048c0f817734 idx=3 base=y
+2025-08-14T22:35:26.413477 - ack from 8399c465-ae13-49da-88b9-048c0f817734 pr=87
+2025-08-14T22:35:32.705454 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:32.954794 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.955902 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.962137 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.962137 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.963696 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.966983 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.971747 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.974883 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.975993 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.981689 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.983687 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.984693 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:32.984693 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.244165 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.248687 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.254328 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.258944 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.272619 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.272619 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.296673 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.296673 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.297673 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.298673 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.298673 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.300183 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.498224 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.517782 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.545508 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.546020 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.547042 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.548026 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.548026 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.549027 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.549027 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.550537 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:33.735798 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.752778 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.754417 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.754417 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.755472 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.758634 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.760574 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.760574 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.762174 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.763766 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.784651 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.804436 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:33.824126 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.048459 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.052607 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.067657 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.251552 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.253552 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.261610 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.263609 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.263609 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.265700 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.266719 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.266719 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.285555 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.287858 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.302223 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.305757 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.318318 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.320850 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.323958 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.340921 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.342476 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.356547 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.637830 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.641378 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.648899 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.670550 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.672556 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.673557 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.705252 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.707331 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.708884 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.907283 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.907283 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.909282 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.911282 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.911282 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.937449 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.937449 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.937449 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.950693 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.958812 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.959812 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.965858 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:34.967880 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.970409 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.978971 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:34.981529 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.000153 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.000153 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.051414 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.293522 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.298066 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.301614 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.508207 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.510208 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.513205 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.530382 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.534412 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.546637 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.547636 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.547636 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.549638 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.569083 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.571719 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.571719 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.576221 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.810757 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:35.811814 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.813816 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.817710 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.830332 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:35.831362 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.835877 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.852374 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.853384 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.854375 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.856895 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.861681 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.866313 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:35.871313 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:35.876415 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:35.878412 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.882412 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:35.883412 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:35.897791 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:35.924459 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:35.931883 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:35.933882 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:35.971291 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.354662 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.360221 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.364195 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.365721 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.367751 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.378612 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.388580 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.388580 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.393294 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.584591 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.589115 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.589115 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.589115 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.593681 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.595681 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.597214 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.603588 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.610978 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.610978 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.614831 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.616402 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.618471 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.618471 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.622360 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.805357 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:36.983954 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:36.999025 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.000536 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:37.003807 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.012120 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.013128 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.013128 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.025515 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.028639 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.029671 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.030181 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.036892 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.045941 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.057127 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.072217 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.080247 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.087789 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.088789 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.296184 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.311374 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:37.315770 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.321860 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.543760 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:37.544764 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.545755 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.545755 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.545755 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.545755 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.547825 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.548830 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.550350 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.551375 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.565335 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.568862 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.570384 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.571404 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.574411 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.577944 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.580450 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.963614 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.967127 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.967127 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:37.973654 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:37.982679 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.982679 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:37.992379 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.187709 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.189327 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.198444 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.206714 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.208710 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.211219 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.217748 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.226819 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.237621 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.241146 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.242144 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.242144 - partial_err:[Errno 22] Invalid argument
+2025-08-14T22:35:38.251197 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.256737 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.256737 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.264259 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.266789 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.281296 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.284296 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.296872 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.307908 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.310432 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.311440 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.311440 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.317860 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.512737 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.513737 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.520254 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.523253 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.530278 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.532289 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.533288 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.543345 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.546568 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.547569 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.555077 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.777718 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.779398 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.779398 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.790420 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.814191 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.819743 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.820733 - live_err:Existing exports of data: object cannot be re-sized
+2025-08-14T22:35:38.833753 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.838349 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.838349 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.839327 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:38.840756 - partial_err:[Errno 1094995529] Invalid data found when processing input: 'd:\\VENUS-AURA\\thought-lag-detector\\uploads\\_live_8399c465-ae13-49da-88b9-048c0f817734.wav'
+2025-08-14T22:35:58.060700 - emit pr=88 cid=8399c465-ae13-49da-88b9-048c0f817734 idx=4 base=y

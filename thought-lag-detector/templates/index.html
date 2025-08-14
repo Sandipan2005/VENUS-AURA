@@ -53,14 +53,6 @@
         <div class="metric-value red" id="stressVal">–</div>
       </div>
       <div class="metric-card">
-        <div class="metric-label">Fused Stress</div>
-        <div class="metric-value red" id="stressFusedVal">–</div>
-      </div>
-      <div class="metric-card">
-        <div class="metric-label">Δ Fused-Heur</div>
-        <div class="metric-value" id="stressDeltaVal">–</div>
-      </div>
-      <div class="metric-card">
         <div class="metric-label">Focus Score</div>
         <div class="metric-value green" id="focusVal">–</div>
       </div>
@@ -68,16 +60,6 @@
         <div class="metric-label">ML Stress Prob</div>
         <div class="metric-value" id="mlStressVal">–</div>
         <div class="metric-sub">%</div>
-      </div>
-      <div class="metric-card">
-        <div class="metric-label">Speech Activity</div>
-        <div class="gauge" id="speechProbGauge">
-          <div class="gauge-inner">
-            <span id="speechProbVal">–</span>
-            <div class="gauge-sub" id="speechStableFlag"> </div>
-          </div>
-        </div>
-        <div class="metric-sub">prob %</div>
       </div>
       <div class="metric-card">
         <div class="metric-label">Reaction Delay</div>
@@ -176,9 +158,10 @@
     </div>
     <div class="panel">
       <h3>Top Drivers</h3>
-  <div id="driverBars" class="driver-bars"></div>
-  <ul id="driverList" class="history-list" style="display:none; max-height: 140px"></ul>
-  <div class="text-muted" style="font-size: 11px; margin-top: 6px">Live z-score weighted contributions. Width = relative impact. Color hue encodes sign (green positive focus-aligned, red stress driver).</div>
+      <ul id="driverList" class="history-list" style="max-height: 140px"></ul>
+      <div class="text-muted" style="font-size: 11px; margin-top: 6px">
+        Computed from z-score weighted contributions (live).
+      </div>
     </div>
   </div>
 </div>
